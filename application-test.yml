@@ -1,5 +1,3 @@
-server:
-  port: 20014
 spring:
   application:
     name: config-client
