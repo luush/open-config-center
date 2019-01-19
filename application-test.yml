@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: config-client
 name: luush
 age: 18
 message: this is a test config file
